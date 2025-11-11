@@ -1,16 +1,15 @@
-<!-- Animated Banner -->
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNldzZuMWVxeWl0eXlxc3l3b2E5dnF1cGN6M29qdm43eHBuM3M4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFo3BEQFmK4cU/giphy.gif" width="500">
 </p>
 
 <h1 align="center">🛡️ 0xsh0gunX</h1>
-<h3 align="center">Cybersecurity | Blue Team | SOC | Detection Engineering</h3>
+<h3 align="center">Cybersecurity | RED  | SOC | Detection Engineering</h3>
 
 ---
 
-<!-- Profile Summary -->
 <p align="center">
-  <b>⚔️ Cyber Defender | 🧠 Threat Hunter | 🐧 Arch Linux User</b>
+  <b>⚔️ Cyber  | 🧠 Tester | 🐧 Arch  </b>
 </p>
 
 <p align="center">
