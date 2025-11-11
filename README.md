@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🛡️ Hi, I'm 0xSh0gunX (Safvan)
 
-<!--
-**oxsh0gunX/oxsh0gunX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity Enthusiast | SOC Learner | TryHackMe Top 1%  
+🎯 Learning Blue Team Operations and Threat Detection  
+🐧 Using Arch Linux + Hyprland  
+⚡ Exploring Nuclei, Burp Suite, Wireshark, and ESP32  
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- SOC Level 1 Skills  
+- Detection Engineering  
+- Network Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/0xSh0gunX)
