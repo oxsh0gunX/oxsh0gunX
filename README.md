@@ -66,13 +66,12 @@
 
 ---
 
-<!-- Contact Section -->
 <h2>🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://t.me/oxsh0gunX">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:safvanmbn@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/oxsh0gunX">
