@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxsh0gunX&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oxSh0gunX&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oxsh0gunX&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 <h2>🎯 TryHackMe Progress</h2>
 <p align="center">
   <a href="https://tryhackme.com/p/0xSh0gunX">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/oxSh0gunX.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/oxsh0gunX.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
