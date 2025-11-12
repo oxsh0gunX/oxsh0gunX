@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNldzZuMWVxeWl0eXlxc3l3b2E5dnF1cGN6M29qdm43eHBuM3M4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFo3BEQFmK4cU/giphy.gif" width="500">
-</p>
+</p> 
 
 <h1 align="center">🛡️<b> oxsh0gunX </b></h1>
 <h3 align="center">Cybersecurity </h3>
