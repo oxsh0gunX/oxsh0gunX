@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://camo.githubusercontent.com/e50bd585a5dfb192a403a5389276ea479a24d2bc03abba2cf4d773a96bfac8fd/68747470733a2f2f64657669636f6e2d776562736974652e76657263656c2e6170702f6170692f696c6c7573747261746f722f6c696e652e7376673f636f6c6f723d253233444538353030" width="40"
 
   
 </p>
