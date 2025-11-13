@@ -57,6 +57,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=oxsh0gunX&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>
 
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ---
 
