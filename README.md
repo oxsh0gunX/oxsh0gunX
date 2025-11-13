@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;0xSh0gunX+—+Don't+pray,+chmod+%2Bx+your+destiny.;sudo+rm+-rf+reality/*;Enjoy+the+ride!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;0xSh0gunX+-+Don%27t+pray%2C+chmod+%2Bx+your+destiny.;sudo+rm+-rf+reality%2F*;Enjoy+the+ride!&font=Fira+Code&center=true&width=400&height=65&duration=4000&pause=1000"/>
+
 </p>
 
 <h1 align="center">🛡️ <b>0xSh0gunX</b></h1>
