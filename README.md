@@ -12,12 +12,13 @@
 ---
 
 ## 🧩 About Me
-- 🔒 Cyber Security & Blue Team enthusiast  
+- 🎓 BCA Graduate | Currently pursuing **MCA**
+- 🔒 Passionate about **Cyber Security & Blue Team Operations**  
 - 🧠 Learning **Detection Engineering, Threat Hunting & Network Security**  
-- 🐧 Daily driver: **Arch Linux (Hyprland WM)**  
-- 🧰 Tools I work with: **Wireshark, Nmap, Burp Suite, Nuclei, Suricata, Zeek**  
-- 🎯 Goal: Become a **SOC Analyst**  
-- ⚡ Motto: *“Silence, Focus, Defense.”*
+- 🐧 Using **Arch Linux + Hyprland** for a clean hacker workspace  
+- 🧰 Tools: **Wireshark, Nmap, Burp Suite, Nuclei, Suricata, Zeek**  
+- 🎯 Focused on becoming a **SOC Analyst**  
+- ⚡ Motto: “Silence, Focus, Defense.”  
 
 ---
 
