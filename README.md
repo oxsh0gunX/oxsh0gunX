@@ -61,7 +61,7 @@ my wepon: i5,3 3200g
 
 ---
 
-## 📊 GitHub Stats
+
 <p align="center">
 
 <p align="center">
