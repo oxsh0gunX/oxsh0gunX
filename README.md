@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oxsh0gunX&hide_border=true&locale=mal&short_numbers=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a></p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oxsh0gunX&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <p align="center">
