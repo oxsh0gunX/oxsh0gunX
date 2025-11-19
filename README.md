@@ -19,18 +19,14 @@ dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -------------------------------
-Host: dikaardnt.com
-Username: DikaArdnt
-WhoamI: Normal People.
-Languages: JavaScript & PHP
-FavouriteAnime: 無職転生 (Mushoku Tensei).
-Waifu: タツマキ (Tatsumaki)
-Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️).
+Host: EndeavourOS x86_64
+Username: oxsh0gunX
+WhoamI: root
+DE/WM: Hyprland 0.52.1 (Wayland)
 Pronouns: He-Him.
-Location: Indonesian, Jawa Timur.
-FavouriteSong: 美波 (Minami) - Amewomatsu.
-Hobbies: Watching Anime, Read Manga, and Listening Music
+Location: Inazuma,Main City
+uptime: 0 hours
+wepon: i5,3 3200g
 ```
 
 <div>
