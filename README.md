@@ -14,7 +14,30 @@
 dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```
 ---
+<img align="left" src="img/hisoka.png" width="130px"/>
 
+```csharp
+My Profile
+-------------------------------
+Host: dikaardnt.com
+Username: DikaArdnt
+WhoamI: Normal People.
+Languages: JavaScript & PHP
+FavouriteAnime: 無職転生 (Mushoku Tensei).
+Waifu: タツマキ (Tatsumaki)
+Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
+Loves: タツマキ (Tatsumaki) (❤️ ω ❤️).
+Pronouns: He-Him.
+Location: Indonesian, Jawa Timur.
+FavouriteSong: 美波 (Minami) - Amewomatsu.
+Hobbies: Watching Anime, Read Manga, and Listening Music
+```
+
+<div>
+<br>
+<br>
+<br>
+<br>
 ## 🧩 About Me
 - 🎓 BCA Graduate | Currently pursuing **MCA**
 - 🔒 Passionate about **Cyber Security & Blue Team Operations**  
