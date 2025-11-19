@@ -39,6 +39,16 @@ my wepon: i5,3 3200g
   
 ---
 
+<div>
+<h2 align="center"> ✨Statistics👨‍💻 </h2>
+</div>
+<div align="center">
+    <img width="625em" src="./github-metrics.svg" />
+</div>
+<br>
+<br>
+
+
 ## ⚙️ Arsenal
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
