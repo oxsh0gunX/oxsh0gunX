@@ -48,18 +48,7 @@ my wepon: i5,3 3200g
 
 
 
-<p style="background-color:#f5f5f5; padding:12px; border-radius:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/>
-  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
-</p>
+
 
 <div>
 <br>
@@ -72,15 +61,6 @@ my wepon: i5,3 3200g
 
 
 
-## ⚙️ Arsenal
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
 
 ---
 
