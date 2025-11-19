@@ -40,6 +40,8 @@ my wepon: i5,3 3200g
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
+
 
 </p>
 <div>
