@@ -29,6 +29,10 @@ config  : Cyber Security
 Location: Inazuma,Main City
 skills  : Kiddy
 my wepon: i5,3 3200g
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+
 ```
                                 
 <div>
