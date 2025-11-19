@@ -10,11 +10,13 @@
 <h1 align="center">🛡️ <b>0xSh0gunX</b></h1>
 <h3 align="center">Cybersecurity | Blue Team | Arch Linux</h3>
 
+
+
 ```sh
- Thu 20 Nov - 02:19  ~/sleep 
- @oxsh0gun  neofetch```
----
-<img align="left" src="img/meduca_1.jpg" width="130px"/>
+oxsh0gunX@cs30: ~/my_readme (main⚡)$ neofetch
+```
+
+   <img align="left" src="img/meduca_1.jpg" width="130px"/>
 
 ```csharp
 My Profile
