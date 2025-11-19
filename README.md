@@ -11,8 +11,8 @@
 <h3 align="center">Cybersecurity | Blue Team | Arch Linux</h3>
 
 ```sh
-dika@greyrat: ~/my_readme (main⚡)$ neofetch
-```
+ Thu 20 Nov - 02:19  ~/sleep 
+ @oxsh0gun  neofetch```
 ---
 <img align="left" src="img/meduca_1.jpg" width="130px"/>
 
