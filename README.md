@@ -48,14 +48,13 @@
 
 ---
 
-## 🎯 TryHackMe Progress
-<p align="center">
+<!-- <p align="center">
   <a href="https://tryhackme.com/p/oxsh0gunX">
     <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/64d4cef0b779af0054d62df6-1755668637312" width="150" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme" />
-</p>
+</p> -->
 
 ---
 
