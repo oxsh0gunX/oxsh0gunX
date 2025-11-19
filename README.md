@@ -1,7 +1,8 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://tenor.com/view/btth-battle-through-the-heavens-dou-po-cang-qiong-doupo-cangqiong-cai-lin-gif-10682930799315226966
+
 " width="500">
-</p> -->
+</p> 
 https://tenor.com/view/btth-battle-through-the-heavens-dou-po-cang-qiong-doupo-cangqiong-cai-lin-gif-10682930799315226966
 
 <!-- <p align="center">
@@ -79,13 +80,7 @@ my wepon: i5,3 3200g
 
 ---
 
-<!-- <p align="center">
-  <a href="https://tryhackme.com/p/oxsh0gunX">
-    <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/64d4cef0b779af0054d62df6-1755668637312" width="150" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme" />
-</p> -->
+
 
 ---
 
