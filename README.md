@@ -38,6 +38,7 @@ my wepon: i5,3 3200g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/>
 
 </p>
 <div>
