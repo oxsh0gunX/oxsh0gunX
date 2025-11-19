@@ -14,7 +14,7 @@
 dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```
 ---
-<img align="left" src="img/hisoka.png" width="130px"/>
+<img align="left" src="img/meduca_1.jpg" width="130px"/>
 
 ```csharp
 My Profile
