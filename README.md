@@ -19,30 +19,22 @@ dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -------------------------------
-Host: EndeavourOS x86_64
-Username: oxsh0gunX
-WhoamI: root
-DE/WM: Hyprland 0.52.1 (Wayland)
-Pronouns: He-Him.
+Host Name: EndeavourOS x86_64
+User name: oxsh0gunX
+Who am i: BCA Graduate
+DE / WM : Hyprland 0.52.1 (Wayland)
+config  : Cyber Security
 Location: Inazuma,Main City
-uptime: 0 hours
-wepon: i5,3 3200g
+skills  : Kiddy
+my wepon: i5,3 3200g
 ```
-
+                                
 <div>
 <br>
 <br>
 <br>
 <br>
-## 🧩 About Me
-- 🎓 BCA Graduate | Currently pursuing **MCA**
-- 🔒 Passionate about **Cyber Security & Blue Team Operations**  
-- 🧠 Learning **Detection Engineering, Threat Hunting & Network Security**  
-- 🐧 Using **Arch Linux + Hyprland** for a clean hacker workspace  
-- 🧰 Tools: **Wireshark, Nmap, Burp Suite, Nuclei, Suricata, Zeek**  
-- 🎯 Focused on becoming a **SOC Analyst**  
-- ⚡ Motto: “Silence, Focus, Defense.”  
-
+  
 ---
 
 ## ⚙️ Arsenal
