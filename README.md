@@ -68,6 +68,7 @@ my wepon: i5,3 3200g
   <img src="https://github-readme-stats.vercel.app/api?username=oxsh0gunX&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+   <img src="https://streak-stats.demolab.com?user=oxsh0gunX&theme=tokyonight-duo&mode=weekly"/>
 </p>
 
 </p>
