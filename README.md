@@ -32,6 +32,8 @@ spec     :5300u (8)& 3200g(16)
 mode     : rm -rf mikko  
 -------------------------------
 ```
+   <img align="right" src="img/meduca_1.jpg" width="130px"/>
+
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
