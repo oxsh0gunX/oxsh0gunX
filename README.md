@@ -14,6 +14,7 @@ root@cs30 oxsh0gun]#  fastfetch
 ```
 
    <img align="left" src="img/meduca_1.jpg" width="130px"/>
+   <img align="right" src="img/meduca_1.jpg" width="130px"/>
 
 ```csharp
 My Profile
@@ -30,7 +31,7 @@ my crush : 5090😭
 shell    :Eish
 spec     :5300u (8)& 3200g(16)
 mode     : rm -rf mikko  
-
+-------------------------------
 ```
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
