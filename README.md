@@ -13,7 +13,6 @@ Location : sudo Ei nmcli connection up inazuma_city
 skills   : sleep 3200mhz
 utpime   : 5090😭
 spec     :5300u (8)& 3200g(16)
--------------------------------
 ```
 <img align="right" src="img/xun_er.jpg" width="350px"/> 
 <p > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br> 
