@@ -1,21 +1,8 @@
-
-
-
-
-
-
-<h3 style=bgcolor:red align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
-
-
-
-
-```sh
+<h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
+sh
 root@cs30 oxsh0gun]#  fastfetch
-```
-
-   <img align="left" src="img/meduca_1.jpg" width="130px"/>
-
-```csharp
+<img align="left" src="img/meduca_1.jpg" width="130px"/>
+csharp
 My Profile
 -------------------------------
 Host Name: hp gold book x86_64
@@ -31,42 +18,4 @@ shell    :Eish
 spec     :5300u (8)& 3200g(16)
 mode     : rm -rf mikko  
 -------------------------------
-```
-   <img align="right" src="img/xun_er.jpg" width="350px"/>
-
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/>
-  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/><br>
-
-
-
-
-
-<p align="center">
-  <i>
-  No skill?<br>
-  No shell.<br>
-  Even if she’s cute.
-  </i>
-</p>
-<br>
-<div style="background-color:#d0e8ff; padding:15px; border-radius:10px;">
-
-<p align="center">
-  <i>
-  💜 Do I love Ei more?<br><br>
-  ⚡ Bro, I spent three years of BCA for her. ⚔️
-  </i>
-</p>
-
-</div>
-
-
+<img align="right" src="img/xun_er.jpg" width="350px"/> <p > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/><br> <p align="center"> <i> No skill?<br> No shell.<br> Even if she’s cute. </i> </p> <br> <img src="img/ei.jpg"/> <p align="center"> <i> 💜 Do I love Ei more?<br><br> ⚡ Bro, I spent three years of BCA for her. ⚔️ </i> </p>
