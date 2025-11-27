@@ -10,7 +10,7 @@
 
 
 ```sh
-oxsh0gunX@cs30: ~/my_readme (main⚡)$ fastfetch
+root@cs30 oxsh0gun]#  fastfetch
 ```
 
    <img align="left" src="img/meduca_1.jpg" width="130px"/>
