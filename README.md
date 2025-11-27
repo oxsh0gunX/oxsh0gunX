@@ -26,7 +26,7 @@ DE / WM : Hyprland 0.52.1 (dotfiles)
 config  :  life.conf
 Location: Inazuma,Main City
 skills  : Kiddy
-my crush: 5090
+my crush: 5090😭
 ```
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
