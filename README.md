@@ -14,7 +14,7 @@ root@cs30 oxsh0gun]#  fastfetch
 ```
 
    <img align="left" src="img/meduca_1.jpg" width="130px"/>
-   <img align="right" src="img/meduca_1.jpg" width="130px"/>
+   <img align="right" src="img/ei.jpg" width="130px"/>
 
 ```csharp
 My Profile
