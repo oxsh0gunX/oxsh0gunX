@@ -1,6 +1,12 @@
 <h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
 <img align="left" src="img/meduca_1.jpg" width="130px"/>
 
+██╗░░██╗██╗░█████╗░  ██╗░░░██╗░█████╗░███╗░░██╗
+╚██╗██╔╝██║██╔══██╗  ╚██╗░██╔╝██╔══██╗████╗░██║
+░╚███╔╝░██║██║░░██║  ░╚████╔╝░███████║██╔██╗██║
+░██╔██╗░██║██║░░██║  ░░╚██╔╝░░██╔══██║██║╚████║
+██╔╝╚██╗██║╚█████╔╝  ░░░██║░░░██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░╚════╝░  ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝
 ```sh
 root@cs30 oxsh0gun]#  fastfetch
 -------------------------------
@@ -15,7 +21,7 @@ skills   : sleep 3200mhz
 my crush : 5090😭
 shell    :Eish
 spec     :5300u (8)& 3200g(16)
-mode     : rm -rf mikko  
+mode     : rm -rf Yae Miko  
 -------------------------------
 ```
 <img align="right" src="img/xun_er.jpg" width="350px"/> 
