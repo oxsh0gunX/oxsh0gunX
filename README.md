@@ -54,4 +54,11 @@ my crush: 5090😭
 </p>
 <br>
 <img  src="img/ei.jpg"/>
+<p align="center">
+  <i>
+  💜 Do I love Ei more?<br><br>
+  ⚡ Bro, I spent three years of BCA for her. ⚔️
+  </i>
+</p>
+
 
