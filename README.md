@@ -52,4 +52,6 @@ my crush: 5090😭
   Even if she’s cute.
   </i>
 </p>
+<br>
+<img align="left" src="img/ei.jpg" width="130px"/>
 
