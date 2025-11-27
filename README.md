@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
+<h3 style=bgcolor:red align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
 
 
 
