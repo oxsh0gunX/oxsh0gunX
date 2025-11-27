@@ -44,11 +44,7 @@ my crush: 5090😭
 
 
 
----
 
-
-
----
 <p align="center">
   <i>
   No skill?<br>
