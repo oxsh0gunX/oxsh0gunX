@@ -53,5 +53,5 @@ my crush: 5090😭
   </i>
 </p>
 <br>
-<img align="left" src="img/ei.jpg" width="130px"/>
+<img  src="img/ei.jpg"/>
 
