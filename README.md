@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🛡️ <b>0xSh0gunX</b></h1>
-<h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector</h3>
+<h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
 
 
 
