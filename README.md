@@ -58,12 +58,15 @@ mode     : rm -rf mikko
   </i>
 </p>
 <br>
-<img  src="img/ei.jpg"/>
+<div style="background-color:#d0e8ff; padding:15px; border-radius:10px;">
+
 <p align="center">
   <i>
   💜 Do I love Ei more?<br><br>
   ⚡ Bro, I spent three years of BCA for her. ⚔️
   </i>
 </p>
+
+</div>
 
 
