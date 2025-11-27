@@ -34,6 +34,6 @@ mode     : rm -rf mikko
   <p align="center"> <i> No skill?<br> 
     No shell.<br> Even if she’s cute. </i> </p>
     <br> 
-    <img src="img/ei.jpg"/> <p align="center"> 
+    <img src="img/ei.jpg" width=500px"/> <p align="center"> 
       <i> 💜 Do I love Ei more?<br><br> 
         ⚡ Bro, I spent three years of BCA for her. ⚔️ </i> </p>
