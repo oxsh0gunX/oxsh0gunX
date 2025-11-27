@@ -27,6 +27,7 @@ config  :  life.conf
 Location: Inazuma,Main City
 skills  : sleep 3200mhz
 my crush: 5090😭
+shell   Eish
 spec   :5300u (8)& 3200g(16)
 ```
 <p >
