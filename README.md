@@ -51,9 +51,9 @@ my crush: 5090😭
 ---
 <p align="center">
   <i>
-  “No skill?<br><br>
+  No skill?<br>
   No shell.<br>
-  Even if she’s cute.”
+  Even if she’s cute.
   </i>
 </p>
 
