@@ -20,12 +20,14 @@ My Profile
 -------------------------------
 Host Name: hp gold book x86_64
 User name: oxsh0gunX
-Who am i: BCA Graduate
+uname -a :6.187.8-arch1-4 
+Who am i: R4iden
 DE / WM : Hyprland 0.52.1 (dotfiles)
-config  :  life.conf
+config  :  life.conf 
 Location: Inazuma,Main City
-skills  : Kiddy
+skills  : sleep 3200mhz
 my crush: 5090😭
+spec   :5300u (8)& 3200g(16)
 ```
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
