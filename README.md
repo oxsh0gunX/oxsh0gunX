@@ -13,7 +13,7 @@ skills   : sleep 3200mhz
 Dream    : 5090😭
 spec     :5300u (8)& 3200g(16)
 ```
-<img align="right" src="img/xun_er.jpg" width="350px"/> 
+<img align="right" src="img/xun_er.jpg" width="300px"/> 
 <p > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>
