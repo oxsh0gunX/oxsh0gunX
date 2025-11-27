@@ -70,6 +70,7 @@ my wepon: i5,3 3200g
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
    <img src="https://streak-stats.demolab.com?user=oxsh0gunX&theme=tokyonight-duo&mode=weekly"/>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oxsh0gunX" alt="GitHub Streak" /></a>
 </p>
 
 </p>
