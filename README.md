@@ -31,6 +31,8 @@ spec     :5300u (8) & 3200g(16)
     <img src="img/ei.jpg" width=500px"/> <p align="center"> 
       <i> 💜 Do I love Ei more?<br>
         ⚡ Bro, I spent three years of BCA for her. ⚔️ </i> </p>
+
+
         
 ██╗░░██╗██╗░█████╗░  ██╗░░░██╗░█████╗░███╗░░██╗
 ╚██╗██╔╝██║██╔══██╗  ╚██╗░██╔╝██╔══██╗████╗░██║
