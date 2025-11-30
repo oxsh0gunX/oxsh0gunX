@@ -1,5 +1,5 @@
 <h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
-<img align="left" src="img/meduca_1.jpg" width="130px"/>
+<img align="left" src="img/meduca_1.jpg" width="140px"/>
 
 ```sh
 root@cs30 oxsh0gun]#  fastfetch
