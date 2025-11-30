@@ -13,7 +13,6 @@ skills   : sleep 3200mhz
 Dream    : 5090😭
 spec     :5300u (8) & 3200g(16)
 ```
-<img align="right" src="img/xun_er.jpg" width="300px"/> 
 <p > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
@@ -26,9 +25,7 @@ spec     :5300u (8) & 3200g(16)
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
   
   
-    <img src="img/ei.jpg" width=500px"/> <p align="center"> 
-      <i> 💜 Do I love Ei more?<br>
-        ⚡ Bro, I spent three years of BCA for her. ⚔️ </i> </p>
+    
 
 
         
