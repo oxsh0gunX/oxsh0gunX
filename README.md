@@ -25,9 +25,7 @@ spec     :5300u (8) & 3200g(16)
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
   
-  <p align="center"> <i> No skill?
-    No shell. Even if she’s cute. </i> </p>
-    <br> 
+  
     <img src="img/ei.jpg" width=500px"/> <p align="center"> 
       <i> 💜 Do I love Ei more?<br>
         ⚡ Bro, I spent three years of BCA for her. ⚔️ </i> </p>
