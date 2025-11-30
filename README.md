@@ -2,6 +2,7 @@
 <img align="left" src="img/meduca_1.jpg" width="140px"/>
 
 ```sh
+
 root@cs30 oxsh0gun]#  fastfetch
 Host Name: hp gold book x86_64
 User name: ᴏxsʜ0ɢᴜɴX
