@@ -1,6 +1,6 @@
 <h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
 <img align="left" src="img/meduca_1.jpg" width="140px"/>
-<img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="140px,height=140px"/>
+<img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="140px,height=440px"/>
 
 
 ```sh
