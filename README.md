@@ -14,6 +14,7 @@ Dream    : 5090😭
 spec     :5300u (8) & 3200g(16)
 
 
+
 ```
 
 <p > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
