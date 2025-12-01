@@ -30,7 +30,7 @@ spec     :5300u (8) & 3200g(16)
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
 
 
-  <img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="1400pxheight=11200px"/>
+  <img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="140pxheight=11200px"/>
 
   
   
