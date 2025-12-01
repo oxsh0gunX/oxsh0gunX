@@ -1,6 +1,5 @@
 <h3 align="center">Script kiddy | ./install.sh | Arch dotfiles | reflector | EI-</h3>
 <img align="left" src="img/meduca_1.jpg" width="140px"/>
-<img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="100pxheight=11200px"/>
 
 
 ```sh
@@ -29,6 +28,10 @@ spec     :5300u (8) & 3200g(16)
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" width="40"/>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/tryhackme-icon.png" width="40"/>
+
+
+  <img align="right" src="img/video_game-genshin_impact-baal_raiden_shogun_genshin_impact-1039489.jpeg" width="1400pxheight=11200px"/>
+
   
   
     
