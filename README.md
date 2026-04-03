@@ -13,6 +13,7 @@ Location : sudo Ei nmcli connection up inazuma_city
 skills   : sleep 3200mhz
 Dream    : 5090😭
 spec     :5300u (8) & 3200g(16)
+system   :Linux-base firmware
 
 
 
