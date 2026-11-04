@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <rect width="800" height="160" rx="16" fill="#0d1117"/>
+  <text x="30" y="38" font-family="monospace" font-size="24" font-weight="bold" fill="#00e5ff">FULL SEND 🏎️</text>
+  <rect x="0" y="112" width="800" height="8" fill="#30363d"/>
+  <g stroke="#00e5ff" stroke-width="3" opacity="0.5" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" values="-400 0;900 0" dur="1.4s" repeatCount="indefinite"/>
+    <line x1="0" y1="30" x2="90" y2="30"/>
+    <line x1="150" y1="60" x2="260" y2="60"/>
+    <line x1="320" y1="90" x2="400" y2="90"/>
+    <line x1="500" y1="45" x2="620" y2="45"/>
+    <line x1="650" y1="80" x2="740" y2="80"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-260 0;840 0" dur="5s" repeatCount="indefinite"/>
+    <polygon points="40,102 95,86 165,80 215,94 245,102 245,112 40,112" fill="#e11d2e"/>
+    <rect x="205" y="58" width="34" height="9" fill="#111827"/>
+    <rect x="216" y="67" width="6" height="20" fill="#111827"/>
+    <rect x="18" y="106" width="42" height="7" fill="#111827"/>
+    <path d="M 105 84 Q 135 62 165 82" stroke="#00e5ff" stroke-width="4" fill="none"/>
+    <circle cx="142" cy="80" r="7" fill="#00e5ff"/>
+    <circle cx="82" cy="112" r="17" fill="#111827" stroke="#4b5563" stroke-width="3"/>
+    <g stroke="#9ca3af" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" values="0 82 112;360 82 112" dur="0.6s" repeatCount="indefinite"/>
+      <line x1="82" y1="98" x2="82" y2="126"/>
+      <line x1="68" y1="112" x2="96" y2="112"/>
+    </g>
+    <circle cx="202" cy="112" r="17" fill="#111827" stroke="#4b5563" stroke-width="3"/>
+    <g stroke="#9ca3af" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" values="0 202 112;360 202 112" dur="0.6s" repeatCount="indefinite"/>
+      <line x1="202" y1="98" x2="202" y2="126"/>
+      <line x1="188" y1="112" x2="216" y2="112"/>
+    </g>
+  </g>
+  <g>
+    <rect x="730" y="18" width="14" height="14" fill="#ffffff"/>
+    <rect x="744" y="18" width="14" height="14" fill="#111827"/>
+    <rect x="758" y="18" width="14" height="14" fill="#ffffff"/>
+    <rect x="730" y="32" width="14" height="14" fill="#111827"/>
+    <rect x="744" y="32" width="14" height="14" fill="#ffffff"/>
+    <rect x="758" y="32" width="14" height="14" fill="#111827"/>
+  </g>
+</svg>
