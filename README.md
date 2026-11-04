@@ -10,6 +10,10 @@
   <code>Cybersecurity Learner</code> · <code>Linux Enthusiast</code> · <code>CTF Player</code> · <code>Android App Builder</code>
 </p>
 
+<p align="center">
+  <img src="img/dance-banner.svg" alt="Dance mode banner"/>
+</p>
+
 ---
 
 <h2>🖥️ whoami</h2>
@@ -116,6 +120,23 @@ Check my pinned repositories for the projects and write-ups I'm actively develop
 [+] Understand vulnerabilities instead of blindly running tools
 [+] Build projects and document the results
 ```
+
+---
+
+<h2>🎶🏎️ off the clock</h2>
+
+<p align="center">
+  <img src="img/race-banner.svg" alt="Full send race banner"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="img/anime-dance.webp" alt="Anime dance artwork"/>
+  <img width="48%" src="img/f1-speed.webp" alt="F1-style speed artwork"/>
+</p>
+
+<p align="center">
+  <sub>Anime nights &amp; race weekends — the stuff that keeps the operator human.</sub>
+</p>
 
 ---
 
