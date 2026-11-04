@@ -123,23 +123,6 @@ Check my pinned repositories for the projects and write-ups I'm actively develop
 
 ---
 
-<h2>🎶🏎️ off the clock</h2>
-
-<p align="center">
-  <img src="img/race-banner.svg" alt="Full send race banner"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="img/anime-dance.webp" alt="Anime dance artwork"/>
-  <img width="48%" src="img/f1-speed.webp" alt="F1-style speed artwork"/>
-</p>
-
-<p align="center">
-  <sub>Anime nights &amp; race weekends — the stuff that keeps the operator human.</sub>
-</p>
-
----
-
 <h2 align="center">the operator behind the terminal</h2>
 
 <p align="center">
