@@ -57,7 +57,7 @@ Currently exploring:
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | ⚡ **Aura** | Raiden Shogun-themed workout tracker. Your own categories and workouts, one count per workout, day-based growth graphs, a body map that lights up as you train, and a roast-style offline AI coach. Fully offline, no login. | Flutter · Dart · Android | [Repo](https://github.com/oxsh0gunX/Aura) · [v9.17 APK](https://github.com/oxsh0gunX/Aura/releases/tag/v9.17) |
-| 📖 **PDF Reader** | Minimal PDF & comic reader. Library with drag-and-drop reading order, volume keys that turn pages — and switch documents at the ends of a book — a panel engine with automatic detection and a manual editor, screenshots, and brightness control. Fully offline, no login. | Flutter · Dart · Android | [Repo](https://github.com/oxsh0gunX/PDF-Reader) · [v2.2.2 APK](https://github.com/oxsh0gunX/PDF-Reader/releases/tag/v2.2.2) |
+| 📚 **Manga Reader** | Minimal PDF & comic reader with a dedicated Manga mode — top-to-bottom reading, strip & single page, auto-scroll, and auto-next document. Library with drag-and-drop reading order, volume keys that turn pages — and switch documents at the ends of a book — a panel engine with automatic detection and a manual editor, screenshots, and brightness control. Fully offline, no login. | Flutter · Dart · Android | [Repo](https://github.com/oxsh0gunX/Manga-Reader) · [v2.3.5 APK](https://github.com/oxsh0gunX/Manga-Reader/releases/tag/v2.3.5) |
 
 ---
 
